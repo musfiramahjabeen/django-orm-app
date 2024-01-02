@@ -8,10 +8,8 @@ To develop a Django application to store and retrieve data from a database using
 ## DESIGN STEPS
 ### STEP 1:
    Clone the repository from github .
-
 ### STEP 2:
    Create an admin page for Django .
-
 ### STEP 3:
    Create an app and edit settings.py .
 
