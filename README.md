@@ -2,12 +2,8 @@
 
 ## AIM
 To develop a Django application to store and retrieve data from a database using Object Relational Mapping(ORM).
-
 ## Entity Relationship Diagram
-
 ![Screenshot from 2023-10-31 11-39-35](https://github.com/SaravananPV3010/django-orm-app/assets/139754526/61384ad7-7a0f-4799-aaf9-32b7ec3f8913)
-
-
 
 ## DESIGN STEPS
 ### STEP 1:
@@ -70,11 +66,6 @@ admin.site.register(Employee,EmployeeAdmin)
 ```
 
 ## OUTPUT
-
-
 ![Screenshot from 2023-10-31 10-46-50](https://github.com/SaravananPV3010/django-orm-app/assets/139754526/5cd5fde0-2250-43f5-9ead-f7d3bf612b54)
-
-
-
 ## RESULT
 Django application to store and retrieve data from a database using Object Relational Mapping(ORM) is developed.
