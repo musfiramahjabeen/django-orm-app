@@ -62,7 +62,6 @@ from .models import Student,StudentAdmin,Employee,EmployeeAdmin
 admin.site.register(Student,StudentAdmin)
 admin.site.register(Employee,EmployeeAdmin)
 ```
-
 ## OUTPUT
 ![Screenshot from 2023-10-31 10-46-50](https://github.com/SaravananPV3010/django-orm-app/assets/139754526/5cd5fde0-2250-43f5-9ead-f7d3bf612b54)
 ## RESULT
